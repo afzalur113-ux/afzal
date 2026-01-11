@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Afzalur Rahman</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f6f8;
+            color: #333;
+        }
+        header {
+            background-color: #1e90ff;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #1e90ff;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #1e90ff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Afzalur Rahman</h1>
+    <p>Pelamar Pekerjaan Bidang IT & Jaringan</p>
+</header>
+
+<section>
+    <h2>Tentang Saya</h2>
+    <p>
+        Saya Afzalur Rahman, lulusan dari <strong>SMK 1 Barunawati</strong>.
+        Saya memiliki minat dan bakat di bidang teknologi informasi,
+        khususnya Teknik Komputer Jaringan dan Telekomunikasi.
+    </p>
+</section>
+
+<section>
+    <h2>Pendidikan</h2>
+    <p>
+        <strong>SMK 1 Barunawati</strong><br>
+        Jurusan: Teknik Komputer Jaringan & Telekomunikasi
+    </p>
+</section>
+
+<section>
+    <h2>Keahlian</h2>
+    <ul>
+        <li>Teknik Komputer Jaringan & Telekomunikasi</li>
+        <li>Coding (HTML, CSS, dasar pemrograman)</li>
+        <li>Menganalisis Data</li>
+        <li>Membuat dan Mengelola Database</li>
+        <li>Merakit PC</li>
+        <li>Menginstalasi dan Konfigurasi Jaringan</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tujuan Karier</h2>
+    <p>
+        Saya ingin bergabung dengan perusahaan yang bergerak di bidang teknologi
+        untuk mengembangkan kemampuan, menambah pengalaman kerja,
+        dan memberikan kontribusi terbaik melalui keahlian yang saya miliki.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Afzalur Rahman</p>
+</footer>
+
+</body>
+</html>
